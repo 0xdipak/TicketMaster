@@ -3,7 +3,7 @@
 ## Features : 
 - User can buy seats
 - Admin can list events
-- Admin can withdrwa amount
+- Admin can withdraw amount
 
 ## Technology used :
 - React
