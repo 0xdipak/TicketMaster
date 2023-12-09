@@ -2,7 +2,7 @@
 
 ## Features : 
 - User can buy seats
--  Admin can list events
+- Admin can list events
 - Admin can withdrwa amount
 
 ## Technology used :
@@ -12,6 +12,6 @@
 - Ethers.js
 - NFT
 
-# Live URL :  
+# Live URL :  https://dticketmaster.vercel.app/
 
 
